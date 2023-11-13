@@ -121,3 +121,23 @@ nav h2 {
     }
 }
 
+/* single post */
+
+.single-post {
+    max-width: 768px;
+}
+
+.single-post h1 {
+    font-size: 2rem;
+}
+
+.single-post img {
+    object-fit: cover;
+    aspect-ratio: 2/1;
+    border-radius: .75rem;
+}
+
+.single-post p {
+    padding: 1rem 0;
+    color: var(--gray);
+}
