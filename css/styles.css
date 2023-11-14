@@ -152,3 +152,10 @@ nav .icons i {
     padding: 1rem 0;
     color: var(--gray);
 }
+
+/* footer */
+footer {
+    padding: 3rem 1rem;
+    text-align: center;
+    color: var(--gray);
+}
